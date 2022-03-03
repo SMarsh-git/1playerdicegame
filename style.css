@@ -26,6 +26,14 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	margin: 30px;
+	font-size: 1.8rem;
+	color: #ffffff;
+	text-align: center;
+}
+
+
 img {
 	width:300px;      
 }
